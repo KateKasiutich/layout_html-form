@@ -54,4 +54,4 @@ Add attribute `data-qa="field-placeholder"` to test it correctly.
 **Result**
 
 - [UPDATE DEMO LINK](https://katekasiutich.github.io/layout_html-form/)
-- [UPDATE TEST REPORT LINK](file:///C:/Course'19/Homework-6/layout_html-form/backstop_data/html_report/index.html)
+- [UPDATE TEST REPORT LINK](https://katekasiutich.github.io/layout_html-form/report/html_report/)
